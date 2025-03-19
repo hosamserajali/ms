@@ -4,6 +4,10 @@
 
 // abstract class CheckEmailController extends GetxController {
 //   checkemail();
+
+
+
+
 //   goToSuccessSignUp();
 // }
 
